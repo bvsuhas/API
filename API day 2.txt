@@ -1,0 +1,37 @@
+@@@@@@@@@@@@@@@ Day -2 @@@@@@@@@@@@@@@@
+
+
+Work space : where we maintain files saved
+
+collections : collection contains num of folder and http request 
+
+create , rename , any number of collections under workspace 
+
+
+Request ===> API ====> Response
+
+Get : retrieve the resource from database
+Post : create resource on database 
+put : update existing resource on database
+Delete : delete existing resource from database
+patch : update partial details of resource 
+
+
+sample API 
+
+https://reqres.in/api/users?page=2
+
+
+Validation 
+============
+status code 
+Time taken
+size data 
+
+response body 
+cookies 
+header 
+
+
+
+@@@@  HTTP status code  @@@@@

@@ -1,0 +1,96 @@
+@@@  API @@@@ 
+
+Two types of API 
+
+SOAP : support xml type data 
+REST : support json xml and all type of data 
+
+#########
+web services ===>  API   <===== Back end 
+
+##########
+API == > request >>> server >> clint 
+
+	user  << response << clint 
+
+###########
+
+Diff b/w API and web service 
+
+
+All web services are called API In HTTP 
+
+but all API are not webservers until we move them to production or internet.
+
+
+web services need network but API doesn't need a network.
+
+
+###########
+
+
+@@  REST API  @@@
+
+#########
+
+ http request Method  
+
+
+GET  : send and receives the information and get response to user for webserver  Ex:-  google.com
+
+POST : sending the data to store the data in database 
+
+put : update the data which is existing 
+
+delete : delete the data which is present in database 
+
+
+
+HTTP : less secure 
+HTTPS : more secure 
+
+
+URI 
+URL 
+URN 
+
+https:/google.com/articles/articles_name
+
+reqres.in
+
+https://reqres.in/api/users?page=2
+
+@@@@ Requests  @@@@@@@@@ 
+
+200 = success 
+
+204 = No content 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
